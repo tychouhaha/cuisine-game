@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":false,"name":"盔甲商店","order":4,"parentId":3,"scrollX":982.8,"scrollY":527.4},
+{"id":2,"expanded":false,"name":"學校教室","order":1,"parentId":0,"scrollX":982.8,"scrollY":527.4},
+{"id":3,"expanded":true,"name":"商店區","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":527.4},
+{"id":4,"expanded":false,"name":"道具商店","order":3,"parentId":3,"scrollX":982.8,"scrollY":527.4},
+{"id":5,"expanded":false,"name":"選擇角色","order":5,"parentId":0,"scrollX":982.8,"scrollY":527.4}
+]
